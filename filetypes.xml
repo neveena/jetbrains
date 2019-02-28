@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping ext="gql" type="GraphQL" />
       <removed_mapping ext="gql" approved="true" type="Graql" />
-      <removed_mapping ext="md" type="Markdown" />
       <mapping pattern="static" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".modernizrrc" type="PLAIN_TEXT" />
@@ -11,7 +10,6 @@
       <mapping pattern="search-results.blade.php" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
       <mapping ext="jsl" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
