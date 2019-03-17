@@ -13,6 +13,7 @@
       <mapping ext="stub" type="PLAIN_TEXT" />
       <mapping ext="jsl" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="liquid" type="Twig" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
